@@ -1,8 +1,8 @@
-Skills Needed (Implement this on the application):
-● Backend Web Development (Python)
-● Database Management (MySQL, PostgreSQL, MongoDB)
-● Version Control System (Git)
-● Docker
+# Skills Needed (Implement this on the application):
+- Backend Web Development (Python)
+- Database Management (MySQL, PostgreSQL, MongoDB)
+- Version Control System (Git)
+- Docker
 
 What to do:
 ● Make a To-Do application without using any framework for us to see how you structure your code
